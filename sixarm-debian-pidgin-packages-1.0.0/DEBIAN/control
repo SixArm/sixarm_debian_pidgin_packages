@@ -1,0 +1,9 @@
+Package: sixarm-debian-pidgin-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: pidgin, pidgin-awayonlock, pidgin-blinklight, pidgin-bot-sentry, pidgin-data, pidgin-encryption, pidgin-extprefs, pidgin-hotkeys, pidgin-libnotify, pidgin-otr, pidgin-plugin-pack, pidgin-skype, pidgin-themes, libotr2, libotr2-bin, libotr2-dev
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Pidgin instant messaging packages we like to use
+ Pidgin instant messaging packages we like to use together.
