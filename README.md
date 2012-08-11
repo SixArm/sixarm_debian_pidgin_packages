@@ -1,4 +1,4 @@
-SixArm.com » Debian » Pidgin instant messaging and related packages
+# SixArm.com » Debian » Pidgin instant messaging and related packages
 
 To add our repositority to your sources:
 
