@@ -1,0 +1,17 @@
+pidgin
+pidgin-awayonlock
+pidgin-blinklight
+pidgin-bot-sentry
+pidgin-data
+pidgin-encryption
+pidgin-extprefs
+pidgin-hotkeys
+pidgin-libnotify
+pidgin-otr
+pidgin-plugin-pack
+pidgin-privacy-please
+pidgin-skype
+pidgin-themes
+libotr2
+libotr2-bin
+libotr2-dev
